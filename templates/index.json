@@ -1,0 +1,292 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Discover Our Sweet Creations</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/pexels-felicity-tai-7966096.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "image_behavior": "none",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-3",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "products_to_show": 8,
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_xpyDAx": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_aEeBf9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/6091889.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "<strong>Crafted with Passion, Baked with Love</strong>",
+            "heading_size": "h1",
+            "subheading": "Every dessert we create is a masterpiece, made with the finest ingredients and a passion for perfection. From classic recipes to unique creations, discover the difference that quality makes in every bite.",
+            "button_label": "Explore Our Menu",
+            "link": "shopify://collections/frontpage",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-8c3e7a33-8b83-4674-8306-5cda643ebc24"
+          }
+        },
+        "slide_GbDQtW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/6091778.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "<strong>Your Perfect Dessert for Any Occasion</strong>",
+            "heading_size": "h1",
+            "subheading": "Whether you're celebrating a special day or simply treating yourself, we have the perfect dessert for you. From elegant custom cakes to delectable pastries, let us sweeten your moments.",
+            "button_label": "Place a Custom Order",
+            "link": "shopify://collections/frontpage",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-8c3e7a33-8b83-4674-8306-5cda643ebc24"
+          }
+        }
+      },
+      "block_order": [
+        "slide_aEeBf9",
+        "slide_GbDQtW"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "collapsible_content_7eNFXB": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_rghxkf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer gluten-free or vegan options?",
+            "icon": "gluten_free",
+            "row_content": "<p><br/>Yes, we do! We have a variety of delicious gluten-free and vegan desserts available. Please check our menu or ask one of our staff members for a list of current offerings. We take great care to avoid cross-contamination, but please be aware that our kitchen does handle gluten and other allergens.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_8xqkpW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I place a custom order for a cake or special event?",
+            "icon": "check_mark",
+            "row_content": "<p><br/>We would be delighted to help you with a custom order! We create beautiful and delicious cakes for birthdays, weddings, and other special occasions. Please visit our custom orders page or contact us directly to discuss your ideas, flavors, and design preferences. We recommend placing your order at least [X] weeks in advance to ensure availability.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TzWqqn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your return or exchange policy?",
+            "icon": "return",
+            "row_content": "<p><br/>We stand by the quality and freshness of all our products. If for any reason you are not completely satisfied with your purchase, please contact us within [X] hours of receiving your order. Due to the perishable nature of our products, we address returns and exchanges on a case-by-case basis and will work with you to find a satisfactory solution.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YkeEwP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How should I store my desserts to keep them fresh?",
+            "icon": "box",
+            "row_content": "<p><br/>To ensure your desserts stay fresh and delicious, we recommend following the storage instructions provided with your order. Generally, most of our cakes and pastries should be stored in the refrigerator and consumed within [X] days. For best results, allow them to come to room temperature for about 15-20 minutes before serving to enhance their flavor and texture.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JRDVz9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer delivery or shipping?",
+            "icon": "silhouette",
+            "row_content": "<p><br/>Yes, we offer both local delivery and nationwide shipping on select items. For local delivery, we serve the [Your City/Region] area with a [X] minimum order. For shipping, we carefully package our non-perishable desserts to ensure they arrive in perfect condition. You can find more details, including fees and delivery zones, on our delivery and shipping information page.<br/><br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_rghxkf",
+        "collapsible_row_8xqkpW",
+        "collapsible_row_TzWqqn",
+        "collapsible_row_YkeEwP",
+        "collapsible_row_JRDVz9"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "<strong>FAQs: Your Sweetest Questions, Answered</strong>",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_kDrTTM": {
+      "type": "multirow",
+      "blocks": {
+        "row_Xz4cqX": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Birthday_cake-amico.png",
+            "caption": "The perfect centerpiece for your next celebration.",
+            "heading": "<strong>Custom Cakes</strong>",
+            "text": "<p>Let us create the cake of your dreams. Choose from a variety of decadent flavors, fillings, and stunning designs to make your special occasion even sweeter.</p>",
+            "button_label": "Order a Custom Cake",
+            "button_link": "shopify://collections/frontpage"
+          }
+        },
+        "row_bDXT3w": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/pastry_chef-rafiki.png",
+            "caption": "A taste of France in every bite.",
+            "heading": "<strong>Artisanal Pastries</strong>",
+            "text": "<p>Indulge in our exquisite selection of pastries, from flaky croissants to rich, creamy éclairs. Each one is a testament to traditional techniques and modern flair.</p>",
+            "button_label": "Browse Our Pastries",
+            "button_link": "shopify://collections/frontpage"
+          }
+        },
+        "row_UH4nMG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Recipe_book-amico.png",
+            "caption": "A delightful treat for any day of the week.",
+            "heading": "<strong>Signature Desserts</strong>",
+            "text": "<p>Explore our rotating menu of unique desserts, featuring seasonal ingredients and innovative flavor combinations. There’s always something new and delicious to discover.</p>",
+            "button_label": "View Our Signature Desserts",
+            "button_link": "shopify://collections/frontpage"
+          }
+        }
+      },
+      "block_order": [
+        "row_Xz4cqX",
+        "row_bDXT3w",
+        "row_UH4nMG"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_6tjwTA": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/3992584-uhd_4096_2160_25fps.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "featured_collection",
+    "slideshow_xpyDAx",
+    "collapsible_content_7eNFXB",
+    "multirow_kDrTTM",
+    "video_6tjwTA"
+  ]
+}
