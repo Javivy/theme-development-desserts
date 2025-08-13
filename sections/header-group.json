@@ -36,7 +36,7 @@
       "settings": {
         "auto_rotate": true,
         "change_slides_speed": 4,
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-3",
         "show_line_separator": false,
         "show_social": true,
         "enable_country_selector": false,
@@ -52,7 +52,7 @@
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-8c3e7a33-8b83-4674-8306-5cda643ebc24",
         "menu_color_scheme": "scheme-1",
         "enable_country_selector": true,
         "enable_language_selector": true,
