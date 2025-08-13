@@ -272,9 +272,12 @@
         "heading_size": "h1",
         "enable_video_looping": true,
         "video": "shopify://files/videos/3992584-uhd_4096_2160_25fps.mp4",
+        "autoplay_video": true,
+        "muted_video": true,
+        "video_controls": false,
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
-        "full_width": false,
+        "full_width": true,
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
