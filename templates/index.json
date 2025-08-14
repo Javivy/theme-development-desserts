@@ -52,7 +52,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all",
+        "collection": "featured-dessert-products",
         "products_to_show": 8,
         "title": "Featured products",
         "heading_size": "h2",
@@ -63,16 +63,16 @@
         "enable_desktop_slider": false,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "solid",
+        "view_all_style": "outline",
         "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "image_shape": "default",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "none",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 44,
         "padding_bottom": 36
       }
@@ -126,10 +126,10 @@
         "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "counter",
-        "auto_rotate": true,
+        "auto_rotate": false,
         "change_slides_speed": 3,
-        "image_behavior": "none",
-        "show_text_below": true,
+        "image_behavior": "ambient",
+        "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
     },
