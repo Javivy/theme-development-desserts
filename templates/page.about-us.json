@@ -1,0 +1,153 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_RDJbqx": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_YcjJbf": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>About us</strong>",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YcjJbf"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/pexels-eric-mufasa-578798-1397292.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-4",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_z3Xpb3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_J6MtJH": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>The Sweet Story Behind Our Bakery</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_Etbn8y": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For generations, the art of baking has been our family's passion. What started in a small home kitchen has blossomed into a beloved bakery, founded on the principle that the best desserts are made with the finest ingredients, unwavering attention to detail, and a whole lot of love. We believe that a great dessert is more than just a treat; it's a way to celebrate life's moments, big and small. From the rich aroma of freshly baked bread in the morning to the delicate designs on a custom cake, every creation tells a story. We are dedicated to bringing that story to your table, one delicious bite at a time.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_J6MtJH",
+        "text_Etbn8y"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-8c3e7a33-8b83-4674-8306-5cda643ebc24",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_6JNQg9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fQQkXn": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Crafted with Care</strong>",
+            "text": "<p>Every single item we create is made from scratch in our bakery. We believe in using traditional techniques, meticulous attention to detail, and a passion for our craft to ensure that every dessert is a work of art.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mqDPyJ": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Finest Ingredients</strong>",
+            "text": "<p>Quality is at the core of everything we do. We source the best local and imported ingredients, from rich, dark chocolate to fresh seasonal fruits, because we know that exceptional ingredients are the secret to an exceptional taste.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hpjxkU": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Community-First</strong>",
+            "text": "<p>We're more than just a bakery; we're a part of the community. We love seeing our treats become a part of your celebrations and everyday moments, and we're committed to giving back to the community that has supported us.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fQQkXn",
+        "column_mqDPyJ",
+        "column_hpjxkU"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>Our Philosophy: Baking with Heart</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Make your first sweet order",
+        "button_link": "shopify://collections/all",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "scheme-3",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "contact_form_M9aKhE": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "<strong>Tell us your sweetest requirements</strong>",
+        "heading_size": "h1",
+        "color_scheme": "scheme-8c3e7a33-8b83-4674-8306-5cda643ebc24",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_RDJbqx",
+    "rich_text_z3Xpb3",
+    "multicolumn_6JNQg9",
+    "contact_form_M9aKhE"
+  ]
+}
